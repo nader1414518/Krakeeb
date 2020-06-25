@@ -1,6 +1,5 @@
 # Krakeeb
-Simple Online Shopping Application With Unity Game Engine
-
+Simple Online Shopping Application With Unity Game Engine (Unity Version 2019.3.15f1)
 
 -----------------------------------------------------------
 Features:
